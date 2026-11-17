@@ -23,7 +23,7 @@ Senior Delivery Manager. Dirijo portafolios de infraestructura crítica, Disaste
 
 <a href="https://carlosruizbrito.com/recursos/tablero-ejecutivo.html"><img src="assets/tablero.jpg" alt="Tablero Ejecutivo de Delivery" width="180" align="right"></a>
 
-**[Tablero Ejecutivo de Delivery](https://carlosruizbrito.com/recursos/tablero-ejecutivo.html)** · Excel en español e inglés
+**[Tablero Ejecutivo de Delivery](https://carlosruizbrito.com/recursos/tablero-ejecutivo.html)** · Excel en español e inglés<br>
 Avance, SPI, CPI, aceptación del cliente y riesgos en una página, con semáforo automático y video de uso.
 
 Próximos: registro de riesgos y checklist de cambio en sistemas 24x7. Catálogo completo en **[carlosruizbrito.com/recursos](https://carlosruizbrito.com/recursos/)**.
